@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.border {
+    border: 1px;
+    border-style: solid;
+    border-color: goldenrod;
+}
+
+.fish {
+    flex-basis: 65%;
+}
+
+.tipList {
+    flex-basis: 25%;
+}
+
+.fishList {
+    display: flex;
+    flex-flow: row wrap;
+}

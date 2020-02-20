@@ -1,0 +1,34 @@
+-- MARTIN'S AQUARIUM --
+
+INDEX.HTML
+	-Main Content <main><article> 
+	 	Fish pictures + description <section?>
+		**profile should include: image, species, length, name, loc harvested, diet
+	
+	-Sidebar <aside>
+		Fish care tips
+		Aquarium/tank care tips
+
+LOCATIONS.HTML
+	-Martin's quotes before travel info/tips <section>
+	-Martin's travel destinations + travel tips <section>
+
+NAVIGATION
+	-clean and minimal
+
+*MARTIN LIKES LARGE LATTES
+
+CLASSES:
+MAIN	fish-bio
+	fish-bio__picture
+	fish-bio__details
+
+SIDEBAR fish-tips
+	aquarium-tips
+
+NAV	navigation
+	navigation__button
+	
+LOC	destination
+	destination__details
+	travel-tips
